@@ -1,0 +1,35 @@
+body{
+    font-size: 22px;
+}
+h1 h2{
+    color:blue;
+}
+p{
+    color: purple;
+}
+p span{
+    text-transform:capitalize;
+    background-color: gold;
+}
+.gray{
+    color: gray;
+}
+#second {
+    font-style: italic;
+}
+#third {
+    font-style:oblique;
+}
+body {
+    position: relative;
+  }
+  
+  .star {
+    position: absolute;
+    width: 423px;
+    height: 384px;
+    left: 456.7px;
+    top: 80.34px;
+    background: #346d33;
+    transform: rotate(18.69deg);
+  }
